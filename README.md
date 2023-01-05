@@ -1,4 +1,4 @@
-# Blog
+# DarkMode
 
 _Pequeño proyecto de cambio de color de pantalla. _
 
